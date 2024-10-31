@@ -16,7 +16,6 @@ Ultimate 2048 is an engaging Android application based on the popular 2048 game.
   <img src="./Apple iPhone 11 Pro Max Screenshot 2.png" width="300" />
   <img src="./Apple iPhone 11 Pro Max Screenshot 3.png" width="300" />
   <img src="./Apple iPhone 11 Pro Max Screenshot 4.png" width="300" />
-  <img src="./Apple iPhone 11 Pro Max Screenshot 5.png" width="300" />
 </p>
 
 
